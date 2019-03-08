@@ -1,0 +1,33 @@
+Fases do projeto a ser proposto:
+
+1.	Planejamento do projeto:
+	a.	Descrição do contexto do projeto
+	b.	Defina o escopo do projeto e detalhe as atividades
+2.	Versionamento do projeto:
+	a.	Criação do repositório
+	b.	Criação do Readme.md
+3.	Modelagem do front-end:
+	a.	Desenvolver o wireframe do projeto
+4.	Modelagem do sistema:
+	a.	Definição das funcionalidades
+	b.	Definição dos recursos a serem usados
+5.	Modelagem do banco:
+	a.	Desenvolver o DER
+	b.	Desenvolver o MER
+6.	Implementação do Front-end:
+	a.	Criação das páginas HTML utilizando Bootstrap
+	b.	Criação do CSS para customização das páginas
+	c.	Criação do Java para funcionalidades básicas
+7.	Implementação física do banco de dados:
+	a.	Criação de todas as DDL do banco
+	b.	Criação de todas as DML do banco
+	c.	Construir fisicamente o banco
+8.	Implementação do sistema:
+	a.	Criação do arquivo config.php
+	b.	Criação dos arquivos de requisição e resposta
+	c.	Criação dos arquivos responsáveis pelas regras de negócio
+	d.	Injeção dos códigos PHP nos templates HTML
+9.	Finalização da documentação:
+	a.	Ajustes finais na documentação do projeto (MER, Wifreframe)
+10.	Apresentação do projeto:
+	a.	Apresentação do projeto para o cliente (instrutor), aonde o grupo deve explicar e defender seu projeto. 
